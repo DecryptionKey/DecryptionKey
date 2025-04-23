@@ -30,10 +30,13 @@ I am a cybersecurity student with a strong interest in becoming a Security Engin
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
   <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <br />
+  
+<br/>
+
 
 #
 
@@ -47,14 +50,16 @@ I am a cybersecurity student with a strong interest in becoming a Security Engin
 
 ### 📄 Latest Blog Post
 
-<!-- BEGIN BLOG-CARDS -->
-
-<!-- END BLOG-CARDS -->
-
-#
-
-### 📊 Stats
-
-<!--[My GitHub stats](https://github-readme-stats.vercel.app/api?username=decryptionkey&show_icons=true&theme=gruvbox) -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 #
+
+<details>
+   <summary> 📊 Stats </summary>
+   
+![My GitHub stats](https://github-readme-stats.vercel.app/api/?username=decryptionkey\&hide=contribs,prs\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+
+</details>
+
+
