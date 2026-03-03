@@ -8,7 +8,7 @@ I am a cybersecurity student with a strong interest in becoming a Security Engin
 
    <p align="left">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/manyewade">
+  <a href="https://linkedin.com/in/manyewade">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <!-- TryHackMe -->
