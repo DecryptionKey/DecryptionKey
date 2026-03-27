@@ -1,66 +1,62 @@
-<h1> <img align="center" alt="NodeJS" width="130px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/99ef3fea-a8ea-4a3f-97a1-850e366b5428"/> Hi, I'm Nye! </h1>
+<h1> <img align="center" alt="NodeJS" width="130px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/99ef3fea-a8ea-4a3f-97a1-850e366b5428"/> </h1>
 
-
-
-**👨🏾‍💻 `Cybersecurity Professional [Student/Creator]`**
-
-I am a cybersecurity student with a strong interest in becoming a Security Engineer, Incident Responder, or Penetration Tester. I’m passionate about securing systems, analyzing threats, and understanding how attackers operate to build stronger defenses. Currently, I’m focused on developing hands-on skills through Capture The Flag (CTF) challenges, scripting, and real-world security projects. My interests include network defense, ethical hacking, and threat detection, and I actively explore tools and techniques that enhance both offensive and defensive capabilities.
-
-   <p align="left">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/manyewade">
-    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-  <!-- TryHackMe -->
-  <a href="https://tryhackme.com/p/DecryptionKey">
-    <img alt="TryHackMe" title="View my TryHackMe profile" src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-
-  <!-- Buy Me a Coffee -->
-  <a href="https://buymeacoffee.com/networks">
-    <img alt="Buy Me a Coffee" title="Support me on Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
-   </p>
+# 👋🏾 Ma'Nye Wade
+**Cybersecurity Student | Vulnerability Management | Defensive Operations | AI in Cyber**
 
 ---
 
-### 🛠️ Languages and Tools
+## About Me
+Cybersecurity student at the University at Albany (B.S. Cybersecurity, Cyber Defense Concentration · CS Minor · Expected Dec 2027) with hands-on professional experience in vulnerability management and email security. I've worked in a real enterprise security environment at Marist University, where I used Tenable Nessus, Microsoft Defender, and Wireshark to reduce organizational risk and triage alerts daily. My technical interests span penetration testing, malware analysis, AI-driven threat detection, and web application security.
 
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-  <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  
-<br/>
+---
 
+## Technical Projects
 
-#
+### [Multi-Router Infrastructure Assessment](https://github.com/manyewade)
+Documented an unknown production network through physical and logical assessment of a multi-router environment. Executed Nmap OS detection across 6 subnets and reconstructed full network topology across Windows Server 2019, Quagga routers, and pfSense firewalls — achieving 100% documentation accuracy in Zenmap.
 
-### 👨🏾‍🔬 Latest Projects
+**Tools:** Nmap, Zenmap, Windows Server 2019, pfSense, Quagga
 
-<!-- BEGIN PROJECT-CARDS -->
- ![RSS to SharePoint News](https://github-readme-stats.vercel.app/api/pin/?username=DecryptionKey&repo=RSS-to-SharePoint-News&title_color=ffffff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) 
-<!-- ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515) --> 
-<!-- END PROJECT-CARDS -->
+### [System Hardening & Patch Management](https://manyewade.com/projects/project-1/)
+Hardened a Linux system by implementing 25 CIS Benchmark controls, including deactivating insecure services (FTP, Telnet, SNMP, RSH, NIS), locking root login, and patching critical vulnerabilities via apt. Produced detailed configuration checklists to verify security state.
 
-#
+**Tools:** Ubuntu Linux, CIS Benchmarks, apt, Bash
 
-### 📄 Latest Blog Post
+### [Account Management & Authentication Policies](https://manyewade.com/projects/project-2/)
+Implemented least privilege principles, user/group management, and PAM-based password policy enforcement on an Ubuntu Linux system.
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+**Tools:** Ubuntu Linux, PAM, Bash
 
-#
+### [File Systems, Storage & Backup Security](https://manyewade.com/projects/project-3/)
+Secured data at rest using LUKS full-disk encryption and strict file permissions, then validated a complete backup and recovery workflow.
 
-<details>
-   <summary> 📊 Stats </summary>
-   
-![My GitHub stats](https://github-readme-stats.vercel.app/api/?username=decryptionkey\&hide=contribs,prs\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+**Tools:** Ubuntu Linux, LUKS, rsync
 
-</details>
+### [Wireshark Network Traffic Analysis](https://manyewade.com)
+Identified active network attacks and authentication vulnerabilities by analyzing live traffic. Detected ARP poisoning and IP conflicts via gratuitous ARP filtering and extracted plaintext RIPv2 credentials to demonstrate passive interception risks.
 
+**Tools:** Wireshark, TCP/IP, ARP, RIPv2
+
+---
+
+## Technical Skills
+- **Security Tools:** Tenable Nessus, Microsoft Defender, Wireshark, Nmap/Zenmap
+- **Security Practices:** Vulnerability Management, Incident Response, System Hardening, Patch Management
+- **Identity & Compliance:** LDAP, Duo Security, FERPA, CIS Benchmarks
+- **Systems:** Windows Server 2019, Linux (Ubuntu/Debian)
+- **Languages (Basic):** JavaScript, Java, HTML/CSS, PostgreSQL/SQL 
+
+---
+
+## Currently Studying
+- CYBR 201 — Web Technologies Essentials (web architecture, UNIX, web attacks)
+- CYBR 203 — Intro to Systems & Security (OS, hardware, cloud, endpoint protection)
+- CYBR 204 — Intro to Computer Networks & Security (network protocols, packet analysis)
+
+---
+
+## Let's Connect!
+- 🌐 [manyewade.com](https://manyewade.com)
+- 💼 [LinkedIn](https://linkedin.com/in/manyewade)
+- 📧 me@manyewade.com
 
