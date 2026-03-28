@@ -6,7 +6,7 @@
 ---
 
 ## About Me
-Cybersecurity student at the University at Albany (B.S. Cybersecurity, Cyber Defense Concentration · CS Minor · Expected Dec 2027) with hands-on professional experience in vulnerability management and email security. I've worked in a real enterprise security environment at Marist University, where I used Tenable Nessus, Microsoft Defender, and Wireshark to reduce organizational risk and triage alerts daily. My technical interests span penetration testing, malware analysis, AI-driven threat detection, and web application security.
+Cybersecurity student with hands-on professional experience in vulnerability management and email security. I've worked in a real enterprise security environment at Marist University, where I used Tenable Nessus, Microsoft Defender, and Wireshark to reduce organizational risk and triage alerts daily. My technical interests span penetration testing, malware analysis, AI-driven threat detection, and web application security.
 
 ---
 
