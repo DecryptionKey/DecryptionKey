@@ -5,7 +5,7 @@ Cybersecurity student at the **University at Albany** (B.S. Cybersecurity, Cyber
 🌐 [manyewade.com](https://manyewade.com) · 💼 [LinkedIn](https://linkedin.com/in/manyewade) · 📧 me@manyewade.com
 
 ## Experience
-- **Information Security Intern, Cloud Security**, Paramount (Jun to Aug 2026). Hands-on work in AWS and Wiz.
+- **Information Security Intern, Cloud Security**, Paramount (Jun to Aug 2026). Hands-on work in Policy and Wiz.
 - **Email Security & Vulnerability Management Intern**, Marist University (May to Dec 2025). Worked with Tenable Nessus, Microsoft Defender, and Wireshark to triage alerts and track vulnerabilities.
 - **IT Help Desk Technician**, Marist University (Sep 2024 to May 2025).
 
